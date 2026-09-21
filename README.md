@@ -13,4 +13,4 @@ pip install
 
 ## NMR
 
-
+The notebook assumes that the t2.tar zip file has been unpacked at ``nmr/t2/``.
