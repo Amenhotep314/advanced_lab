@@ -4,3 +4,6 @@ __pycache__
 *.txt
 venv
 *.csv
+*.xlsx
+*.svg
+*.png
