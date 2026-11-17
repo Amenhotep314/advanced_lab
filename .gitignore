@@ -2,5 +2,3 @@ __pycache__
 .DS_Store
 *.pyc
 venv
-*.svg
-*.png
