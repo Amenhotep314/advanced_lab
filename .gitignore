@@ -1,9 +1,6 @@
 __pycache__
 .DS_Store
 *.pyc
-*.txt
 venv
-*.csv
-*.xlsx
 *.svg
 *.png
